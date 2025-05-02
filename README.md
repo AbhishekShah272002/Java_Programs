@@ -1,4 +1,4 @@
-#Heading 1 JAVA_PROGRAM
+Java_Program
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100" height="100" alt="Java Logo"/>
