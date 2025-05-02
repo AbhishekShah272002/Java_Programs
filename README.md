@@ -1,9 +1,13 @@
 Java_Program  
 
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
+
+
 This repository contains a collection of basic and intermediate Java programs.
 It is designed for beginners who want to practice and strengthen their Java skills.
 
-🧠 Topics Covered
+->Topics Covered
+
 Basic input/output operations
 
 Conditional statements and loops
@@ -14,17 +18,19 @@ Functions and recursion
 
 Object-Oriented Programming concepts
 
-▶️ How to Run
+-> How to Run
+
 Open terminal and navigate to the file directory
 
 Compile the program: javac FileName.java
 
 Run the program: java FileName
 
-📂 Example
+-> Example
 java
 Copy
 Edit
+
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
