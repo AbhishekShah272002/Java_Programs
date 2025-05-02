@@ -1,7 +1,7 @@
-                                              JAVA_PROGRAM
+JAVA_PROGRAM
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="100" alt="Java Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100" height="1000" alt="Java Logo"/>
 
 
 This repository contains a collection of basic and intermediate Java programs.
