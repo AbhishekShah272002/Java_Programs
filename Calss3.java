@@ -9,7 +9,7 @@ class Calculator {
 public class Calss3 {
     public static void main(String[] args) {
         Calculator obj = new Calculator();
-        int r1 = obj.add(10, 20, 30);
+        int r1 = obj.add(10, 20, 30); 
         System.out.println(r1);
     }
 }
