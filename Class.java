@@ -5,7 +5,7 @@
         return r;
     } 
 }  
-public class Class { 
+public class Class {  
     public static void main(String[] args) {
         int num1 = 4;
         int num2 = 3;
