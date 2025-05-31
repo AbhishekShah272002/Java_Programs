@@ -4,7 +4,7 @@
         int r = n1 + n2;
         return r;
     } 
-} 
+}  
 public class Class {
     public static void main(String[] args) {
         int num1 = 4;
