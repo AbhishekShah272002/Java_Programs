@@ -6,5 +6,5 @@ public static void main(String[] args)
     System.out.println(lotteryNums[2]);
     lotteryNums[2] = 40;
     System.out.println(lotteryNums[2]);
-  }
+  } 
 }
