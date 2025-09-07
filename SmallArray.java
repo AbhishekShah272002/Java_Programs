@@ -1,4 +1,4 @@
- import java.util.Arrays;
+  import java.util.Arrays;
 
 public class SmallArray{ 
   public static Integer findSecondSmallestItem(Integer[] arr)  
