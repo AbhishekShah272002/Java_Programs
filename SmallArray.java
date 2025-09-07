@@ -1,7 +1,7 @@
  import java.util.Arrays;
 
 public class SmallArray{
-  public static Integer findSecondSmallestItem(Integer[] arr) 
+  public static Integer findSecondSmallestItem(Integer[] arr)  
   { 
     if(arr.length <= 1) 
     {
