@@ -35,8 +35,12 @@ public class SmallArray{
       }
     }
 
-    if (secondSmallest 
-
+    if (secondSmallest == Integer.MAX_VALUE)
+    {
+      return null;
+    }
+  }
+  
 public static void main(String args[])
   {
     Integer[] arr = new Integer[] {5, 8, 3, 2, 6};
