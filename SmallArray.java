@@ -34,4 +34,14 @@ public static void main(String args[])
 
     Integer[] arr5 = new Integer[] {3, 3, 3, 2, 3};
     System.out.println(findSecondSmallestItem(arr5));
-  
+
+    Integer[] arr6 = new Integer[] {3, 4, 3, 3, 3};
+    System.out.println(findSecondSmallestItem(arr6));
+
+    Integer[] arrEmpty = new Integer[] {};
+    System.out.println(findSecondSmallestItem(arrEmpty));
+
+    Integer[] arrOne = new Integer[] {1};
+    System.out.println(findSecondSmallestItem(arrOne));
+  }
+}
