@@ -39,6 +39,8 @@ public class SmallArray{
     {
       return null;
     }
+
+    return secondSmallest;
   }
   
 public static void main(String args[])
