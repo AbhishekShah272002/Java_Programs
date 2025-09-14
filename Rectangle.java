@@ -1,23 +1,23 @@
 public class Rectangle
 {
-  double length;
-  double width;
+  private double length;
+  private double width;
 
-  double calculatePerimeter()
+ public double calculatePerimeter()
   {
     return (2 * length) + (2 * width);
   }
 
-  double calculaterArea()
+  public double calculaterArea()
   {
     return length * width;
   }
 
-  double getLength()
+  public double getLength()
   {
     return length;
   }
-  void setLength(double length)
+  public void setLength(double length)
   {
     this.length = length;
   }
