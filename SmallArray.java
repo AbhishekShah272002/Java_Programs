@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class SmallArray{    
   public static Integer findSecondSmallestItem2(Integer[] arr)    
   {  
-    if(arr.length <= 1)  
+    if(arr.length <= 1) 
     {         
       return null;    
   }   
