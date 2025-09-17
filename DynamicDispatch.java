@@ -10,7 +10,7 @@ class Laptop extends Computer{
  
  }   
 
- class A {
+ class A { 
     public void show()
     { 
         System.out.println("In A show");
