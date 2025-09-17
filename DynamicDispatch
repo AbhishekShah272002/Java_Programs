@@ -7,7 +7,7 @@
  }     
   
 class Laptop extends Computer{    
-
+ 
  }   
 
  class A {
