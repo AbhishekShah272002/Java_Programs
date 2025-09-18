@@ -1,4 +1,4 @@
-      
+       
  class Computer{ 
     public void show()
     {
