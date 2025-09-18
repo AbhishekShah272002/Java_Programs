@@ -5,7 +5,7 @@
         System.out.println("In Computer class");  
     } 
  }      
-    
+     
 class Laptop extends Computer{     
  
  }  
