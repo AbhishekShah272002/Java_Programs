@@ -8,7 +8,7 @@
      
 class Laptop extends Computer{     
  
- }  
+ }   
 
  class A { 
     public void show()
