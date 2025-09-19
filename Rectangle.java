@@ -1,7 +1,7 @@
 public class Rectangle
 {
   private double length;
-  private double width;
+  private double width; 
 
  public double calculatePerimeter()  
   {
