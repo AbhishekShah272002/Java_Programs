@@ -7,7 +7,7 @@ public class Rectangle
   {
     return (2 * length) + (2 * width);
   }
-
+ 
   public double calculaterArea()
   {
     return length * width;
