@@ -8,7 +8,7 @@ void drive()
   }
 }  
 
-public calss Main { 
+public calss Main {  
   public static void main(String[] args)
     Car myCar = new Car();
   myCar.color = "Red";
