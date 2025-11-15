@@ -12,7 +12,7 @@ Class Animal
       Syatem.out.println("Dog Bark");
     }
   }
-
+ 
 public class Test
   {
     public Static void main(String []args)
