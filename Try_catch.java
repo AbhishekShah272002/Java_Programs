@@ -9,7 +9,7 @@ public class Try_catch.java
     static void checkAge(int age) 
     throw InvalidAgeAge Exception 
     {
-      if(age<18) 
+      if(age<18)  
       {
         throw new InvalidAge Exception ("You must be 18 or older. Age age: " + age);
       }
