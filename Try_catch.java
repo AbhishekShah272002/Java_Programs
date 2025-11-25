@@ -24,7 +24,7 @@ public class Try_catch.java
             {
               checkAge(age);
             }
-              catch(InvalidAge Exception) 
+              catch(InvalidAge Exception)  
             {
               Syatem.out.prinln("Error: " + e.get Message());
             }
