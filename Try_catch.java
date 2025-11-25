@@ -6,7 +6,7 @@ InvalidAge Exception(String message)
 }
 public class Try_catch.java
   {
-    static void checkAge(int age) 
+    static void checkAge(int age)  
     throw InvalidAgeAge Exception  
     {
       if(age<18)  
