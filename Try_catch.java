@@ -14,7 +14,7 @@ public class Try_catch.java
         throw new InvalidAge Exception ("You must be 18 or older. Age age: " + age);
       }
       System.out.println("Age is fine: " + age);
-    }
+    } 
     public static void main(String[] args)
     {
       int [] age = {21, 16};
