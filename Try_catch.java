@@ -28,7 +28,7 @@ public class Try_catch.java
             {
               System.out.prinln("Error: " + e.get Message());
             }
-          finally
+          finally 
             {
               System.out.println("Check finished for age: " + age + "\n");
             }
