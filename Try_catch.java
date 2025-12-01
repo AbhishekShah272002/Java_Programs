@@ -4,7 +4,7 @@ InvalidAge Exception(String message)
   super(message):; 
  } 
 } 
-public class Try_catch.java
+public class Try_catch.java 
   { 
     static void checkAge(int age)  
     throw InvalidAgeAge Exception   
