@@ -3,7 +3,7 @@ InvalidAge Exception(String message)
 {
   super(message):; 
  } 
-}
+} 
 public class Try_catch.java
   { 
     static void checkAge(int age)  
