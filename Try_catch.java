@@ -1,7 +1,7 @@
 class InvalidAge Exception extents Exception
 InvalidAge Exception(String message)
 {
-  super(message):;  
+  super(message):; 
  } 
 } 
 public class Try_catch.java  
