@@ -8,7 +8,7 @@ Class Animal
   class Dog extands Animal
     {  
     void bark() 
-      { 
+      {  
       Syatem.out.println("Dog Bark");
     }
   }
