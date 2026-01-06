@@ -1,5 +1,5 @@
 Class Animal
-  {
+  { 
   void eat()
     {
     System.out.println("Animal eat food...");
