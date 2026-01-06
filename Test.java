@@ -3,7 +3,7 @@ Class Animal
   void eat()
     {
     System.out.println("Animal eat food...");
-  }
+  } 
 }
   class Dog extands Animal
     {  
