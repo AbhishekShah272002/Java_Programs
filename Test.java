@@ -5,7 +5,7 @@ Class Animal
     System.out.println("Animal eat food..."); 
   } 
 }
-  class Dog extands Animal
+  class Dog extands Animal 
     {  
     void bark() 
       {  
